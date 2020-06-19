@@ -14,8 +14,3 @@ Development build:
 ```
 npm run build
 ```
-
-Production build:
-```
-npm run production
-```
