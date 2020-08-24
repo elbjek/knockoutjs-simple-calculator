@@ -1,4 +1,5 @@
 import ko from './knockout.js'
+import './style.css';
 var calculatorModel = {
 	isOpen:ko.observable(false),
 	calculatorNumberArray:[
