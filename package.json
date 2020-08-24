@@ -27,6 +27,8 @@
     "@pixi/loaders": "^5.0.4",
     "@pixi/sprite": "^5.0.4",
     "@pixi/ticker": "^5.0.4",
+    "jquery": "^3.5.1",
+    "knockout": "^3.5.1",
     "pixi.js": "^5.2.4"
   }
 }
